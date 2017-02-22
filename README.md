@@ -1,7 +1,8 @@
 # Introduction
 
 This repository provides support for encrypting data that is written to Kafka. You specify this as a 
-serializer/deserializer which will wrap any existing serializer/deserializer that you already use.
+serializer/deserializer which will wrap any existing serializer/deserializer that you already use. This project is in POC
+state. Use in production is not advised.
 
 # Configuration
 
